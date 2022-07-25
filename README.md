@@ -1,6 +1,10 @@
 # Rogers DRM panel
 
-## A valid ID is required. 
+# The project is now set as public and orignal repo is moved to personal  GET server.
+## A valid ID is required in case you need help reach me at : https://t.me/python911
+
+
+
 
 Install fresh ubuntu image with Ubuntu18.x  \
 Install required libs from install.sh \

@@ -1,6 +1,6 @@
 # Rogers DRM panel
 
-## A valid is required. 
+## A valid ID is required. 
 
 Install fresh ubuntu image with Ubuntu18.x  \
 Install required libs from install.sh \
